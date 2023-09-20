@@ -1,5 +1,5 @@
 #include<iostream>
-#include<conio.h>
+//removed conio.h
 #include<string.h>
 #include<stdlib.h>
 #include<iomanip>
